@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFSExample", "BFSExample.csproj", "{3149FE89-2F4F-4ECB-96CC-7F3BC18D1DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3149FE89-2F4F-4ECB-96CC-7F3BC18D1DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3149FE89-2F4F-4ECB-96CC-7F3BC18D1DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3149FE89-2F4F-4ECB-96CC-7F3BC18D1DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3149FE89-2F4F-4ECB-96CC-7F3BC18D1DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EC2D5C5-B734-4FFC-8C3F-64AD6B9E8A3A}
+	EndGlobalSection
+EndGlobal
